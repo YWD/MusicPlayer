@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ViewIndication"
+    android:layout_width="fill_parent"
+    android:layout_height="50.0dip"
+    android:layout_alignParentTop="true"
+    android:background="@drawable/img_playback_bg" >
+        <ImageView
+            android:id="@+id/BackGroudLeft"
+            android:layout_width="150.0dip"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_buttom_bg_left" />
+
+        <ImageView
+            android:id="@+id/BackGroudRight"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@id/BackGroudLeft"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_buttom_bg_right" />
+
+        <LinearLayout
+            android:id="@+id/LineViewIndication"
+            android:layout_width="fill_parent"
+            android:layout_height="30.0dip"
+            android:layout_alignParentTop="true"
+            android:background="#00000000"
+            android:orientation="horizontal" >
+
+            <ImageButton
+                android:id="@+id/IndMain"
+                android:layout_width="70.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/xml_buttom_btn_press" />
+
+            <ImageButton
+                android:id="@+id/IndList"
+                android:layout_width="70.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/xml_buttom_btn_press" />
+
+            <ImageButton
+                android:id="@+id/IndLyric"
+                android:layout_width="70.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/xml_buttom_btn_press" />
+
+            <ImageButton
+                android:id="@+id/ImgBtnVolume"
+                android:layout_width="70.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/xml_playback_btn_press" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LineViewIndication2"
+            android:layout_width="fill_parent"
+            android:layout_height="30.0dip"
+            android:layout_alignParentTop="true"
+            android:background="#00000000" >
+
+            <LinearLayout
+                android:id="@+id/linearLeft"
+                android:layout_width="70.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:gravity="fill_vertical|center" >
+
+                <ImageView
+                    android:id="@+id/ImgMain"
+                    android:layout_width="39.0dip"
+                    android:layout_height="30.0dip"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5.0dip"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/img_buttom_bt_play" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearMid"
+                android:layout_width="70.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:gravity="fill_vertical|center" >
+
+                <ImageView
+                    android:id="@+id/ImgList"
+                    android:layout_width="39.0dip"
+                    android:layout_height="30.0dip"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5.0dip"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/img_buttom_bt_list" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearRight"
+                android:layout_width="70.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:gravity="fill_vertical|center" >
+
+                <ImageView
+                    android:id="@+id/ImgLyric"
+                    android:layout_width="39.0dip"
+                    android:layout_height="30.0dip"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5.0dip"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/img_buttom_bt_lrc" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="70.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/ImgVolume"
+                    android:layout_width="39.0dip"
+                    android:layout_height="30.0dip"
+                    android:background="#00000000"
+                    android:src="@drawable/img_volume_btn" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30.0dip"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:textColor="#ffffffff"
+            android:textSize="15.0dip"
+            android:textStyle="bold" 
+            android:text="当前播放的歌曲"/>
+</RelativeLayout>

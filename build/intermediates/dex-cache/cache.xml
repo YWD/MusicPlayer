@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Learn\project\MusicPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05218965ede66923c2061daa846f16790ed20f07">
+        <dex dex="E:\Learn\project\MusicPlayer\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9a7e9e55879be09b5b7ed9132ee5f7ba751b056a.jar" />
+    </item>
+    <item
+        jar="E:\Learn\project\MusicPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a00fd075e7b93ff7b110ad61bc782641e9cc1e94">
+        <dex dex="E:\Learn\project\MusicPlayer\app\build\intermediates\pre-dexed\debug\instant-run_b75c1a7a2bd9d3fd704c651107ee869509d604bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\wendong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Learn\project\MusicPlayer\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_50b7118bd0a67c211dfeec22c1ed827b6a2e2e24.jar" />
+    </item>
+
+</items>

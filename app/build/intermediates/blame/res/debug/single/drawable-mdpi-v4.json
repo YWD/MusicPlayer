@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_progress_bg.9.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable-mdpi\\img_progress_bg.9.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_progress.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable-mdpi\\img_progress.png"
+    }
+]

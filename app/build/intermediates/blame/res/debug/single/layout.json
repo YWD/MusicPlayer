@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\layout\\bottom.xml"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lyriclayout.xml",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\layout\\lyriclayout.xml"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playlayout.xml",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\layout\\playlayout.xml"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listlayout.xml",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\layout\\listlayout.xml"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

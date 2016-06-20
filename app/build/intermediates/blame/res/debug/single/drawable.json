@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_playinfo_bg.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_playinfo_bg.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_buttom_bg_left.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_buttom_bg_left.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_playmode_shuffle.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\icon_playmode_shuffle.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_playback_bt_next.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_playback_bt_next.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_playmode_single.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\icon_playmode_single.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_buttom_bt_menu.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_buttom_bt_menu.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_background.xml",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\seek_background.xml"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_buttom_bt_list.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_buttom_bt_list.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu_signall.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\icon_menu_signall.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appwidget_pause.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\appwidget_pause.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_buttom_bg_press.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_buttom_bg_press.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_playback_bg_press.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_playback_bg_press.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_playback_bg.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_playback_bg.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_single_bg.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_single_bg.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_volume_btn.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_volume_btn.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_buttom_bt_play.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_buttom_bt_play.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_buttom_btn_press.xml",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\xml_buttom_btn_press.xml"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_playback_bt_last.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_playback_bt_last.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_none.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_none.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_playback_btn_press.xml",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\xml_playback_btn_press.xml"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_buttom_bt_lrc.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_buttom_bt_lrc.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_playmode_repeat.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\icon_playmode_repeat.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_playback_bt_play.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_playback_bt_play.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_buttom_bg_right.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\img_buttom_bg_right.png"
+    },
+    {
+        "merged": "E:\\Learn\\project\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_playmode_normal.png",
+        "source": "E:\\Learn\\project\\MusicPlayer\\app\\src\\main\\res\\drawable\\icon_playmode_normal.png"
+    }
+]

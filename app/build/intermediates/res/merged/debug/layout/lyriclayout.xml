@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.itheima31.musicplayer31.view.ViewGroupHook xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#bd232323" >
+
+  <com.itheima31.musicplayer31.view.LyricShow
+        android:id="@+id/LyricShow"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:fadingEdge="horizontal|vertical" />
+
+</com.itheima31.musicplayer31.view.ViewGroupHook>
